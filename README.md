@@ -1,0 +1,5 @@
+# `bentruyman`
+
+```
+npx bentruyman
+```
